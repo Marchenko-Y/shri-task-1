@@ -1,0 +1,20 @@
+.cover {
+  min-height: 472px;
+  /* padding: var(--text-space-xxl);
+  position: relative; */
+}
+.cover__preview {
+  margin-bottom: var(--text-space-l);
+  /* height: 180px; */
+}
+.cover__preview .image {
+  height: 180px;
+  /* border: 3px solid $white; */
+}
+/* .cover .button {
+  height: var(--text-space-l);
+}
+.cover__footer {
+  width: 100%;
+  left: 0;
+} */

@@ -1,0 +1,13 @@
+.history {
+  border-width: 3px;
+}
+.history__details {
+  display: flex;
+  align-items: center;
+}
+.history__transaction {
+  padding-top: 0;
+}
+.history__quantity {
+  margin-left: auto;
+}

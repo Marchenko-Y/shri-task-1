@@ -1,0 +1,38 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+/* basic blocks */
+@import "./basic_blocks/theme.css";
+@import "./basic_blocks/layout.css";
+@import "./basic_blocks/grid.css";
+@import "./basic_blocks/card.css";
+@import "./basic_blocks/form.css";
+@import "./basic_blocks/informer.css";
+@import "./basic_blocks/list.css";
+@import "./basic_blocks/icon-plus.css";
+@import "./basic_blocks/section.css";
+@import "./basic_blocks/.e-accordion.css";
+@import "./basic_blocks/text.css";
+@import "./basic_blocks/avatar.css";
+@import "./basic_blocks/brand-logo.css";
+@import "./basic_blocks/placeholder.css";
+@import "./basic_blocks/button.css";
+@import "./basic_blocks/input.css";
+@import "./basic_blocks/image.css";
+
+/* content blocks */
+@import "./content_blocks/payment.css";
+@import "./content_blocks/warning.css";
+@import "./content_blocks/product.css";
+@import "./content_blocks/history.css";
+@import "./content_blocks/cover.css";
+@import "./content_blocks/event.css";
+@import "./content_blocks/header.css";
+@import "./content_blocks/onoffswitch.css";
+@import "./content_blocks/footer.css";

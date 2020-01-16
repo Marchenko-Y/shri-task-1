@@ -1,0 +1,10 @@
+.product {
+  min-height: 300px;
+  border-width: 3px;
+}
+.product__image {
+  height: 160px;
+}
+.product__title {
+  margin-bottom: var(--text-space-xxxl);
+}

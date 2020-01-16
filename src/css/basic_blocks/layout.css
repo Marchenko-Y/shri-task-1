@@ -1,0 +1,38 @@
+.layout {
+  width: 100%;
+}
+
+.layout__container {
+  max-width: 100%;
+}
+
+.layout__container_align_center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.layout__container_size_s {
+  width: 920px;
+}
+
+.layout__container_size_m {
+  width: 1280px;
+}
+
+.layout__container_space-v_xxxxl {
+  padding-top: var(--text-space-xxxxl);
+  padding-bottom: var(--text-space-xxxxl);
+}
+
+.layout__container_space-v_xxxxxl {
+  padding-bottom: var(--text-space-xxxxxl);
+  padding-top: var(--text-space-xxxxxl);
+}
+
+.layout__container_indent-b_xxl {
+  margin-bottom: var(--text-space-xxl);
+}
+
+.layout__container_indent-b_xxxxl {
+  margin-bottom: var(--text-space-xxxxl);
+}

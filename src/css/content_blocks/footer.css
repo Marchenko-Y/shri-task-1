@@ -1,0 +1,15 @@
+.footer {
+  padding-top: var(--text-space-xxxl);
+  padding-bottom: var(--text-space-xxxl);
+}
+
+.footer__content {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 1280px;
+  display: flex;
+  justify-content: space-between;
+}
+.footer__content .text {
+  width: auto;
+}

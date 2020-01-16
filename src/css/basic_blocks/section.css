@@ -1,0 +1,16 @@
+.section_indent-b_xxl {
+  margin-bottom: var(--text-space-xxl);
+}
+.section_indent-b_xxxxl {
+  margin-bottom: var(--text-space-xxxxl);
+}
+
+.section_space-v_xxl {
+  padding-top: var(--text-space-xxl);
+  padding-bottom: var(--text-space-xxl);
+}
+
+.section_space-v_xxxxl {
+  padding-top: var(--text-space-xxxxl);
+  padding-bottom: var(--text-space-xxxxl);
+}

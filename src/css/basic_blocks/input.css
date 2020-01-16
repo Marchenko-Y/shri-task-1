@@ -1,0 +1,19 @@
+.input {
+  border: 3px solid var(--bg-border-color);
+  width: 100%;
+}
+.input_size_s {
+  height: 24px;
+}
+.input_size_m {
+  height: 32px;
+}
+.input_size_l {
+  height: 42px;
+}
+.input_size_xl {
+  height: 56px;
+}
+.input_size_xxl {
+  height: 64px;
+}
