@@ -6,14 +6,14 @@
 }
 
 .icon-plus__icon_indent-r_s {
-  margin-right: var(--text-space-s);
+  margin-right: var(--theme-space-s);
 }
 .icon-plus__icon_indent-r_m {
-  margin-right: var(--text-space-m);
+  margin-right: var(--theme-space-m);
 }
 
 .icon-plus__icon_indent-l_l {
-  margin-left: var(--text-space-l);
+  margin-left: var(--theme-space-l);
 }
 .icon-plus__block {
   display: flex;

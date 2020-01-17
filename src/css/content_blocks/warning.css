@@ -5,8 +5,7 @@
   flex-direction: column;
   justify-content: space-between;
 }
-
 .warning .placeholder {
-  margin-top: var(--text-space-m);
-  margin-bottom: var(--text-space-m);
+  margin-top: var(--theme-space-m);
+  margin-bottom: var(--theme-space-m);
 }

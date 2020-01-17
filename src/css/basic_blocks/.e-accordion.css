@@ -1,9 +1,6 @@
 .e-accordion__more {
   display: none;
 }
-.e-accordion__more-visible {
-  display: block;
-}
 .e-accordion__short {
   cursor: pointer;
 }

@@ -23,23 +23,23 @@
   align-items: center;
 }
 .list__item_indent-t_m {
-  margin-top: var(--text-space-m);
+  margin-top: var(--theme-space-m);
 }
 .list__item_indent-b_s:not(:last-child) {
-  margin-bottom: var(--text-space-s);
+  margin-bottom: var(--theme-space-s);
 }
 .list__item_indent-b_m:not(:last-child) {
-  margin-bottom: var(--text-space-m);
+  margin-bottom: var(--theme-space-m);
 }
 .list__item_indent-b_l:not(:last-child) {
-  margin-bottom: var(--text-space-l);
+  margin-bottom: var(--theme-space-l);
 }
 .list__item_indent-b_xl:not(:last-child) {
-  margin-bottom: var(--text-space-xl);
+  margin-bottom: var(--theme-space-xl);
 }
 .list__item_space-b_s {
-  padding-bottom: var(--text-space-s);
+  padding-bottom: var(--theme-space-s);
 }
 .list__item_space-a_m {
-  padding: var(--text-space-m);
+  padding: var(--theme-space-m);
 }

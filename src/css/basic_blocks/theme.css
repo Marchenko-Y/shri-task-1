@@ -84,25 +84,25 @@
 
 .theme_space_default {
   /* Отступы: */
-  --text-space-xxxs: 3px;
-  --text-space-xxs: 6px;
-  --text-space-xs: 9px;
-  --text-space-s: 15px;
-  --text-space-m: 18px;
-  --text-space-l: 24px;
-  --text-space-xl: 27px;
-  --text-space-xxl: 36px;
-  --text-space-xxxl: 45px;
-  --text-space-xxxxl: 51px;
-  --text-space-xxxxxl: 72px;
+  --theme-space-xxxs: 3px;
+  --theme-space-xxs: 6px;
+  --theme-space-xs: 9px;
+  --theme-space-s: 15px;
+  --theme-space-m: 18px;
+  --theme-space-l: 24px;
+  --theme-space-xl: 27px;
+  --theme-space-xxl: 36px;
+  --theme-space-xxxl: 45px;
+  --theme-space-xxxxl: 51px;
+  --theme-space-xxxxxl: 72px;
 }
 
 .theme_gap_small {
-  --gap: var(--text-space-xl);
+  --gap: var(--theme-space-xl);
 }
 
 @media all and (max-width: 1024px) {
   .theme_space_default.theme_gap_small {
-    --gap: var(--text-space-s);
+    --gap: var(--theme-space-s);
   }
 }

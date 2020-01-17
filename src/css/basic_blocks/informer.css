@@ -1,8 +1,3 @@
-/* .informer {
-  display: flex;
-  flex-flow: column wrap;
-} */
-
 .informer_border_all {
   border: 3px solid var(--bg-border-color);
 }
@@ -15,27 +10,23 @@
   display: flex;
   flex-flow: row wrap;
 }
-
 .informer__content_distribute_default,
 .informer__action_distribute_default {
   justify-content: flex-start;
 }
-
 .informer__content_distribute_between,
 .informer__action_distribute_between {
   justify-content: space-between;
 }
-
 .informer__content_distribute_center,
 .informer__action_distribute_center {
   justify-content: center;
 }
-
 .informer__content_space-a_xl,
 .informer__action_space-a_xl {
-  padding: var(--text-space-xl);
+  padding: var(--theme-space-xl);
 }
 .informer__content_space-a_xxl,
 .informer__action_space-a_xxl {
-  padding: var(--text-space-xxl);
+  padding: var(--theme-space-xxl);
 }

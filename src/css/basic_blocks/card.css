@@ -9,6 +9,7 @@
 .card_view_default {
   background-color: var(--bg-default-color);
 }
+
 .card__content {
   display: flex;
   flex-direction: column;
@@ -16,28 +17,27 @@
 .card__content_distribute_center {
   justify-content: center;
 }
-
 .card__content_vertical-align_center {
   align-items: center;
 }
 .card__content_space-a_m,
 .card__footer_space-a_m {
-  padding: var(--text-space-m);
+  padding: var(--theme-space-m);
 }
 .card__content_space-a_xl,
 .card__footer_space-a_xl {
-  padding: var(--text-space-xl);
+  padding: var(--theme-space-xl);
 }
 .card__content_space-a_l,
 .card__footer_space-a_l {
-  padding: var(--text-space-l);
+  padding: var(--theme-space-l);
 }
 .card__content_space-a_xxl,
 .card__footer_space-a_xxl {
-  padding: var(--text-space-xxl);
+  padding: var(--theme-space-xxl);
 }
 .card__content_space-a_xxxl {
-  padding: var(--text-space-xxxl);
+  padding: var(--theme-space-xxxl);
 }
 
 .card__footer {

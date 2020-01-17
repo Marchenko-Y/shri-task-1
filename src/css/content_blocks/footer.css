@@ -1,8 +1,7 @@
 .footer {
-  padding-top: var(--text-space-xxxl);
-  padding-bottom: var(--text-space-xxxl);
+  padding-top: var(--theme-space-xxxl);
+  padding-bottom: var(--theme-space-xxxl);
 }
-
 .footer__content {
   margin-left: auto;
   margin-right: auto;

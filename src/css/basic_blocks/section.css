@@ -1,16 +1,14 @@
 .section_indent-b_xxl {
-  margin-bottom: var(--text-space-xxl);
+  margin-bottom: var(--theme-space-xxl);
 }
 .section_indent-b_xxxxl {
-  margin-bottom: var(--text-space-xxxxl);
+  margin-bottom: var(--theme-space-xxxxl);
 }
-
 .section_space-v_xxl {
-  padding-top: var(--text-space-xxl);
-  padding-bottom: var(--text-space-xxl);
+  padding-top: var(--theme-space-xxl);
+  padding-bottom: var(--theme-space-xxl);
 }
-
 .section_space-v_xxxxl {
-  padding-top: var(--text-space-xxxxl);
-  padding-bottom: var(--text-space-xxxxl);
+  padding-top: var(--theme-space-xxxxl);
+  padding-bottom: var(--theme-space-xxxxl);
 }
